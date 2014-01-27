@@ -10,6 +10,7 @@ SET cs=Challenge not yet completed
 SET ers=Not yet pushed a glitchy button
 SET es=Endless not yet completed
 echo WARNING PLEASE NO OTHER TABS OPEN WHEN USING
+echo Before using this program please not that it is in alpha and may not work as it should please report any issues to my github page at http://www.github.com/Lucargia
 pause
 
 
