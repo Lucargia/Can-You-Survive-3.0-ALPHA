@@ -11,6 +11,8 @@ SET ers=Not yet pushed a glitchy button
 SET es=Endless not yet completed
 echo WARNING PLEASE NO OTHER TABS OPEN WHEN USING
 pause
+
+
 :start
 taskkill /IM chrome.exe
 taskkill /IM firefox.exe
@@ -131,6 +133,8 @@ pause
 goto start
 
 :rickrolleateregg
+echo NOTE THIS IS A WIP PROGRESS FEATURE EASTEREGG THIS IS JUST A TEMPORARY WAY TO GET IT TO HAPPEN 
+pause
 color 1
 timeout /t 3
 color 2
